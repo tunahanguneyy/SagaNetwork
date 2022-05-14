@@ -1,0 +1,33 @@
+name: TGCorePro
+version: 4.0.0
+main: org.main.Main
+api-version: 1.16
+authors: [ wwTunahan ]
+description: TGCorePRO Eklentisi
+
+commands:
+  c:
+    usage: /<command>
+    description: Yaratıcı Moda Geçersiniz [OP]
+    permission: TGCore.c
+  s:
+    usage: /<command>
+    description: Hayatta Kalma Mooduna Geçersiniz [OP]
+    permission: TGCore.s
+  fly:
+    usage: /<command>
+    description: Uçarsınız [OP]
+    permission: TGCore.fly
+  etkinlikhata:
+    usage: /<command>
+    description: Etkinlik Hata Mesajı Alırsınız [DEOP]
+  lobiayarla:
+    usage: /<command>
+    description: Lobiyi Ayarlarsınız [OP]
+    permission: TGCore.sp
+  lobi:
+    usage: /<command>
+    description: Lobiye Işınlanırsınız [DEOP]
+  tgcore:
+    usage: /<command>
+    description: TGCorePro Hakkında Bilgi Verir [DEOP

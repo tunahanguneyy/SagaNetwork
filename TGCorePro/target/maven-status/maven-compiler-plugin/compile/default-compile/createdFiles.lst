@@ -1,0 +1,13 @@
+org\main\CommandList\HomeCommands.class
+org\main\Listener\QuitManager.class
+org\main\Main.class
+org\main\CommandList\TGCoreCommands.class
+org\main\CommandList\FlyCommands.class
+org\main\CommandList\CreativeCommands.class
+org\main\CommandList\VanishCommands.class
+org\main\CommandList\RulesCommands.class
+org\main\CommandList\LobbyCommands.class
+org\main\Listener\JoinManager.class
+org\main\CommandList\ActivityMessageCommands.class
+org\main\Listener\ChatManager.class
+org\main\CommandList\SurvivalCommands.class
